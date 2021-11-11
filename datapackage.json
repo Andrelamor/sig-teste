@@ -10,16 +10,6 @@
       "description": "arquivo teste de setembro",
       "format": "csv",
       "encoding": "utf-8"
-    },
-    {
-      "name": "sig-teste-2021-10",
-      "path": "data/sig-teste-2021-10.csv",
-      "profile": "tabular-data-resource",
-      "schema": "schema.json",
-      "title": "Teste SIG",
-      "format": "csv",
-      "encoding": "utf-8",
-      "description": "Arquivo de teste de outubro"
     }
   ],
   "keywords": [
@@ -29,6 +19,7 @@
   "name": "sig-teste",
   "title": "Teste SIG",
   "description": "dataset de teste",
+  "owner_org": "controladoria-geral-do-estado-cge",
   "licenses": [
     {
       "name": "CC-BY-4.0",
