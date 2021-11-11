@@ -10,6 +10,16 @@
       "description": "arquivo teste de setembro",
       "format": "csv",
       "encoding": "utf-8"
+    },
+    {
+      "name": "sig-teste-2021-10",
+      "path": "data/sig-teste-2021-10.csv",
+      "profile": "tabular-data-resource",
+      "schema": "schema/schema.json",
+      "title": "Teste SIG",
+      "description": "arquivo teste de outubro",
+      "format": "csv",
+      "encoding": "utf-8"
     }
   ],
   "keywords": [
