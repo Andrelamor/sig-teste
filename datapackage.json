@@ -5,7 +5,7 @@
       "name": "sig-teste-2021-09",
       "path": "data/sig-teste-2021-09.csv",
       "profile": "tabular-data-resource",
-      "schema": "schema.json",
+      "schema": "schema/schema.json",
       "title": "Teste SIG",
       "description": "arquivo teste de setembro",
       "format": "csv",
@@ -33,5 +33,11 @@
       "title": "André Amorim",
       "role": "author"
     }
-  ]
+  ],
+  "ckan_hosts": {
+    "https://homologa.cge.mg.gov.br/": {
+      "sig-teste-2021-09": "c35e3354-b250-4170-8673-b38167b9372c",
+      "datapackage.json": "985e294f-563f-4a6c-8cce-453e5afdad9a"
+    }
+  }
 }
